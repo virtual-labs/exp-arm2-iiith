@@ -1,0 +1,1 @@
+Procedures allows a user to define his/her own operation to act upon primitive or user defined data types. Further it allows modular development of programs enabling software readability, maintainability and efficiency also.
